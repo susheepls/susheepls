@@ -1,6 +1,6 @@
 # 💫 About Me:
-🔭 Hi! My name is Brian, an aspiring full stack engineer, and I’m currently working on an NPO project called Pride Land and other self projects!<br>
-🤝 I love learning how to write cleaner and efficient code, and I’m always looking to help at volunteering opportunities and improve as a coder.<br>
+🔭 Hi! I’m Brian, an aspiring full stack engineer, currently working on Pride Land (an NPO project) and other side projects!<br>
+🤝 I love learning cleaner, efficient coding techniques; and I’m always looking to volunteer and grow as a developer.<br>
 🌱 Most comfortable with JavaScript/TypeScript/Express/React!<br>
 ⚡ Fun fact: I love video games and am half-korean, half-japanese living in Tokyo. <br>
 🐄 Don't forget to check out https://www.pridefarm.org/ and get involved. <br>
