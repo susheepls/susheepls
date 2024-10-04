@@ -1,6 +1,9 @@
 # 💫 About Me:
-🔭 Hi! My name is Brian, an aspiring full stack engineer, and I’m currently working on an NPO project called Pride Land and other self projects!<br>🤝 I love learning how to write cleaner and efficient code, and I’m always looking to help at volunteering opportunities and improve as a coder.<br>🌱 Most comfortable with JavaScript/TypeScript/PostgreSQL/React!<br>⚡ Fun fact: I love video games and am half-korean, half-japanese living in Tokyo <br>🐄 Don't forget to check out https://www.pridefarm.org/ and get involved.
-
+🔭 Hi! My name is Brian, an aspiring full stack engineer, and I’m currently working on an NPO project called Pride Land and other self projects!<br>
+🤝 I love learning how to write cleaner and efficient code, and I’m always looking to help at volunteering opportunities and improve as a coder.<br>
+🌱 Most comfortable with JavaScript/TypeScript/Express/React!<br>
+⚡ Fun fact: I love video games and am half-korean, half-japanese living in Tokyo. <br>
+🐄 Don't forget to check out https://www.pridefarm.org/ and get involved. <br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/brian-go-28240227b/) 
