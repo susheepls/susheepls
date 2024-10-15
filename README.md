@@ -3,7 +3,7 @@
 🤝 I love learning cleaner, efficient coding techniques, and I’m always looking to volunteer and grow as a developer.<br>
 🌱 Most comfortable with JavaScript/TypeScript/Express/React!<br>
 ⚡ Fun fact: I love video games and am half-korean, half-japanese living in Tokyo. <br>
-🐄 Don't forget to check out https://www.pridefarm.org/ and get involved. <br>
+🐄 Don't forget to check out https://github.com/pride-land and get involved. <br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/brian-go-28240227b/) 
