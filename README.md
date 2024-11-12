@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Hi! I’m Brian, an aspiring full stack engineer, currently working on Pride Land (an NPO project) and other side projects!<br>
+🔭 Hi! I’m Brian, an aspiring full stack engineer, currently working on a site that simulates rolling gear like in genshin/ZZZ/epic7.<br>
 🤝 I love learning cleaner, efficient coding techniques, and I’m always looking to volunteer and grow as a developer.<br>
 🌱 Most comfortable with JavaScript/TypeScript/Express/React!<br>
 ⚡ Fun fact: I love video games and am half-korean, half-japanese living in Tokyo. <br>
