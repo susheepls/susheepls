@@ -2,8 +2,8 @@
 🔭 Hi! I’m Brian, an aspiring full stack engineer, currently working on a site that simulates rolling gear like in genshin/ZZZ/epic7.<br>
 🤝 I love learning cleaner, efficient coding techniques, and I’m always looking to volunteer and grow as a developer.<br>
 🌱 Most comfortable with JavaScript/TypeScript/Express/React!<br>
-⚡ Fun fact: I love video games and am half-korean, half-japanese living in Tokyo. <br>
-🐄 Don't forget to check out https://github.com/pride-land and get involved. <br>
+⚡ I love video games and am half-korean, half-japanese living in Tokyo. <br>
+🎲 Checkout my webapp on https://gachagear.app/! <br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/brian-go-28240227b/) 
