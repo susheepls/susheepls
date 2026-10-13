@@ -18,11 +18,3 @@ I am half-korean, half-japanese living in Tokyo. <br>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=susheepls&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=susheepls&theme=default&hide_border=false)<br/>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=susheepls&theme=default&no-frame=false&no-bg=false&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=susheepls&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
